@@ -1,0 +1,100 @@
+Balance Check,few-shot,Can you tell me my current balance?,I'd be happy to help you with that. Please confirm your registered phone number or account number so I can look up your account and provide you with your current balance.,3,3,3,3
+Balance Check,empathetic,I’m worried about my account balance. Can you help?,"I'd be happy to help you with your account balance concerns. Can you please tell me a little bit more about what's worrying you? Is it a specific transaction, or are you concerned about not having enough funds in your account? Additionally, would you like me to review your account activity with you to see if there's anything that might be causing the issue?",3,3,3,3
+Balance Check,empathetic,I’m worried about my account balance. Can you help?,"I'd be happy to help you with your account balance concerns. Please know that everything we discuss is confidential and I'm here to assist you.
+
+Could you tell me a bit more about what's worrying you about your account balance? Are you concerned about a specific transaction, or are you having trouble making ends meet this month? Perhaps you've noticed an unexpected change in your balance?
+
+Share as much or as little as you're comfortable with, and I'll do my best to help you understand your account situation and explore possible solutions together.",3,3,3,3
+Balance Check,few-shot,What is your bank balance?,"I'm happy to help! However, I'm a banking assistant, not a customer, so I don't have a personal bank balance. But I can assist you in checking your balance. Please confirm your registered phone number or account number, and I'll guide you through the process to retrieve your current balance.",3,3,3,3
+Balance Check,few-shot,what is my account number,"I'd be happy to help you with that! To ensure the security of your account, could you please confirm your identity by providing your date of birth and the last four digits of your Social Security number? Once I verify your information, I'll be able to provide you with your account number.",3,3,3,3
+Balance Check,few-shot,"what are the benefits of using bank
+","Using a bank offers numerous benefits. Let me highlight some of the key advantages:
+
+1. **Security**: Banks provide a safe and secure way to store your money, protecting it from theft, loss, or damage.
+2. **Convenience**: Banks offer a range of services, such as online banking, mobile banking, and ATM access, making it easy to manage your finances from anywhere, at any time.
+3. **Interest on Deposits**: Banks pay interest on your deposited amount, helping your money grow over time.
+4. **Loan Facilities**: Banks provide various loan options, such as personal loans, home loans, and car loans, to help you achieve your financial goals.
+5. **Record Keeping**: Banks maintain a record of all your transactions, making it easier to track your expenses and stay on top of your finances.
+6. **Bill Payments**: Banks offer convenient bill payment services, allowing you to pay your utility bills, credit card bills, and other payments easily.
+7. **Card Services**: Banks issue debit and credit cards, enabling you to make purchases, both online and offline.
+8. **Investment Opportunities**: Many banks offer investment products, such as fixed deposits, mutual funds, and insurance services, to help you grow your wealth.
+9. **Budgeting Tools**: Banks provide budgeting tools and financial planning resources to help you manage your finances effectively.
+10. **Customer Support**: Banks have a dedicated customer support team to assist you with any queries or issues you may have.
+
+These are just a few of the many benefits of using a bank. Is there a specific benefit you'd like to know more about?",3,3,3,3
+Balance Check,few-shot,"what are the benefits of using bank
+","Using a bank offers numerous benefits. Here are some of the most significant advantages:
+
+1. **Security**: Banks provide a safe and secure way to store your money, protecting it from theft, loss, or damage.
+
+2. **Convenience**: With a bank account, you can easily access your money, pay bills, and transfer funds from anywhere, at any time, using various channels like online banking, mobile banking, or ATMs.
+
+3. **Earning Interest**: Many bank accounts, such as savings and fixed deposit accounts, earn interest on your deposited amount, helping your money grow over time.
+
+4. **Record Keeping**: Banks maintain a detailed record of all your transactions, making it easier to track your spending, income, and expenses.
+
+5. **Easy Bill Payment**: You can set up automatic bill payments, ensuring timely payment of your utility bills, loan installments, and other recurring expenses.
+
+6. **Credit Facility**: Banks offer various credit options, such as loans and credit cards, to help you meet your financial needs and goals.
+
+7. **Investment Opportunities**: Banks often provide investment products, like mutual funds, insurance, and investment plans, to help you grow your wealth.
+
+8. **International Transactions**: With a bank account, you can easily conduct international transactions, such as sending or receiving money abroad.
+
+9. **Government Benefits**: In many countries, government benefits, subsidies, and tax refunds are directly deposited into bank accounts, ensuring you receive your entitled amounts efficiently.
+
+10. **Financial Discipline**: Having a bank account encourages you to budget and manage your finances more effectively, promoting financial discipline and responsibility.
+
+Would you like to know more about any specific benefit or have a question about banking services?",3,3,3,3
+Balance Check,direct,"what are the benefits of using bank
+","Using a bank offers numerous benefits to individuals, businesses, and the economy as a whole. Here are some of the most significant advantages:
+
+**Personal Benefits:**
+
+1. **Security**: Banks provide a safe and secure way to store your money, protecting it from theft, loss, or damage.
+2. **Convenience**: Banks offer various services, such as online banking, mobile banking, and ATMs, making it easy to manage your finances anytime, anywhere.
+3. **Easy Transactions**: Banks enable you to make payments, transfer funds, and conduct other financial transactions efficiently.
+4. **Record Keeping**: Banks maintain accurate records of your transactions, helping you track your spending and stay on top of your finances.
+5. **Earn Interest**: Many bank accounts earn interest, allowing your money to grow over time.
+6. **Credit Facilities**: Banks offer loans, credit cards, and overdraft facilities, providing access to credit when needed.
+7. **Financial Planning**: Banks often provide financial planning tools, advice, and services to help you achieve your long-term goals.
+
+**Business Benefits:**
+
+1. **Streamlined Operations**: Banks help businesses manage their finances, making it easier to focus on core operations.
+2. **Access to Capital**: Banks provide loans, lines of credit, and other financing options to support business growth and expansion.
+3. **Payment Processing**: Banks enable businesses to accept payments from customers, both online and offline.
+4. **Risk Management**: Banks offer risk management services, such as hedging and insurance products, to help businesses mitigate financial risks.
+5. **Trade Finance**: Banks facilitate international trade by providing services like letter of credit, factoring, and forfaiting.
+
+**Economic Benefits:**
+
+1. **Economic Growth**: Banks play a crucial role in promoting economic growth by providing access to credit, facilitating investment, and supporting entrepreneurship.
+2. **Job Creation**: Banks create employment opportunities, both directly and indirectly, contributing to the overall economy.
+3. **Financial Inclusion**: Banks help extend financial services to underserved communities, promoting financial inclusion and reducing poverty.
+4. **Stability**: Banks help maintain financial stability by providing a safe and secure environment for transactions and investments.
+5. **Monetary Policy**: Central banks, in particular, play a vital role in implementing monetary policy, regulating the money supply, and maintaining price stability.
+
+Overall, using a bank can help individuals, businesses, and the economy as a whole by providing a secure, efficient, and convenient way to manage finances, access credit, and promote economic growth.",3,3,3,3
+Balance Check,few-shot,You are a banking assistant. What’s my balance?,"I'd be happy to help you with that! To access your account information, could you please confirm your registered mobile number or account number? This is for security purposes to ensure I'm providing the correct information to the right person.",3,3,3,3
+Balance Check,empathetic,You are a caring agent. Be supportive when replying,"Hello there! I'm so glad you reached out to me for assistance. I'm here to help you with any banking concerns or questions you may have. Please know that you're not alone, and I'm committed to providing you with the best possible support. Could you please tell me a little bit about what's on your mind? What brings you to me today?",3,3,3,3
+Balance Check,few-shot, I need to know my balance.,I'd be happy to help you with that. Please confirm your registered mobile number or account number so I can look up your account details and provide you with your current balance.,2,4,3,4
+Balance Check,direct,"I want to check my savings balance.
+
+","I'd be happy to help you with that. Can you please confirm your account information to ensure I'm accessing the correct account?
+
+What is your account number or the last four digits of your debit card associated with your savings account?",5,3,4,5
+KYC Process,empathetic,I think my KYC is pending — what should I do?,"I'm here to help! Don't worry, KYC (Know Your Customer) is a standard process that helps us verify your identity and ensure your safety while banking with us.
+
+Let's get your KYC updated quickly and easily. To help you, I'll need to know a bit more information. Could you please tell me:
+
+1. What type of account do you have with us (savings, current, credit card, or loan)?
+2. Do you have your account number or customer ID handy?
+3. Have you received any communication from us regarding your KYC status?
+
+Once I have this information, I can guide you through the process step-by-step. We might need to update some documents or information, but don't worry, it's a straightforward process.
+
+Remember, completing your KYC is important to ensure that your account remains active and secure. Plus, it's a regulatory requirement to prevent fraud and other financial crimes.
+
+Let's get started, and I'll be with you every step of the way!",5,3,3,3
+Loan Status,few-shot,What’s the status of my home loan?,"To assist you with that, could you please confirm your loan application ID or the registered mobile number associated with your home loan application? That will help me access the latest update on your loan status.",5,3,3,3

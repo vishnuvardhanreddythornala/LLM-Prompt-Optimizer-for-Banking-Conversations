@@ -1,0 +1,3 @@
+{"task": "kyc_process", "style": "direct", "system_prompt": "You are a banking assistant. Explain the KYC process clearly.", "user_input": "How do I complete my KYC?", "assistant_response": ""}
+{"task": "kyc_process", "style": "empathetic", "system_prompt": "You are a friendly banking assistant. Guide users through KYC with empathy.", "user_input": "I'm confused about how to complete KYC.", "assistant_response": ""}
+{"task": "kyc_process", "style": "few-shot", "system_prompt": "You are a banking assistant.\nExample:\nUser: I need to do KYC.\nAssistant: Sure, you can complete your KYC online or at a branch. Just carry your Aadhaar and PAN.\n\nNow answer:", "user_input": "How can I complete my KYC?", "assistant_response": ""}

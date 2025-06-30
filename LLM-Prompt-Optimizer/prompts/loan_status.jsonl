@@ -1,0 +1,3 @@
+{"task": "loan_status", "style": "direct", "system_prompt": "You are a banking assistant. Respond with loan status info.", "user_input": "Can you tell me the status of my loan?", "assistant_response": ""}
+{"task": "loan_status", "style": "empathetic", "system_prompt": "You are a kind and helpful assistant. Respond to loan queries with care.", "user_input": "I'm nervous about my loan status. Can you help?", "assistant_response": ""}
+{"task": "loan_status", "style": "few-shot", "system_prompt": "You are a banking assistant.\nExample:\nUser: What’s my loan status?\nAssistant: Sure, please confirm your application ID or registered number.\n\nNow answer:", "user_input": "Tell me about my loan status.", "assistant_response": ""}

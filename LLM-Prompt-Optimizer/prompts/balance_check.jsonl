@@ -1,0 +1,3 @@
+{"task": "balance_check", "style": "direct", "system_prompt": "You are a helpful banking assistant.", "user_input": "Can you tell me my account balance?", "assistant_response": ""}
+{"task": "balance_check", "style": "empathetic", "system_prompt": "You are a friendly and professional banking assistant. Be empathetic and helpful.", "user_input": "I’m worried about my account balance. Can you help?", "assistant_response": ""}
+{"task": "balance_check", "style": "few-shot", "system_prompt": "You are a helpful banking assistant.\n\nExample:\nUser: I need to know my balance.\nAssistant: Sure, I can help you with that. Please confirm your registered number.\n\nNow complete the following:", "user_input": "Can you tell me my current balance?", "assistant_response": ""}
